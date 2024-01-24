@@ -22,3 +22,6 @@ Also, you`ll need a postgres database to make that connection, to create one via
 docker run --name postgres -p 5432:5432 -e POSTGRES_PASSWORD=micael123 -d postgres
 ```
 Now you can run the project :)
+
+## Tips
+If you want to manage the database, I highly recommend you to install DBeaver.
