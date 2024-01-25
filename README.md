@@ -15,8 +15,6 @@ npm i graphql-tools
 npm i knex pg
 ```
 
-Please note that the project requires version 6.0.8 of graphql-tools, and you can adjust the version in the package.json file accordingly.
-
 Also, you`ll need a postgres database to make that connection, to create one via docker use the following command:
 ```
 docker run --name postgres -p 5432:5432 -e POSTGRES_PASSWORD=micael123 -d postgres
