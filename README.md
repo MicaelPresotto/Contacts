@@ -1,6 +1,6 @@
-## Contacts API
+## Contact
 
-The Contacts API allows you to manage a list of contacts by enabling functionalities such as creation, updating, and deletion. These contacts are stored in a PostgreSQL database, and the API leverages GraphQL for seamless interaction.
+The Contacts allows you to manage a list of contacts by enabling functionalities such as creation, updating, and deletion. These contacts are stored in a PostgreSQL database, and the API leverages GraphQL for seamless interaction.
 
 This project was initiated as a means to delve deeper into GraphQL. The development process was guided by a comprehensive YouTube tutorial, which can be accessed [here](https://www.youtube.com/watch?v=j0wsF6RD-QE&list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j&index=33). The hands-on experience gained through this project has proven valuable, especially considering my regular use of GraphQL in my daily work.
 
