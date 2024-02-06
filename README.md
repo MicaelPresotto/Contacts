@@ -5,9 +5,10 @@ The Contacts allows you to manage a list of contacts by enabling functionalities
 This project was initiated as a means to delve deeper into GraphQL. The development process was guided by a comprehensive YouTube tutorial, which can be accessed [here](https://www.youtube.com/watch?v=j0wsF6RD-QE&list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j&index=33). The hands-on experience gained through this project has proven valuable, especially considering my regular use of GraphQL in my daily work.
 
 ## Tecnologies
-For the frontend, React
-For the API, GraphQL
-For the backend, Nodejs with Knex and postgreSQL
+
+* For the frontend, React
+* For the API, GraphQL
+* For the backend, Nodejs with Knex and postgreSQL
 
 ## How to run
 
