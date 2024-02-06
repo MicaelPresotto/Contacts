@@ -22,6 +22,6 @@ type Query {
 
 type Mutation {
   createContato(input: ContatoInput): Contato
-  updateContato(id: Int, input: ContatoInput): Contato
+  updateContato(id: Int!, input: ContatoInput): Contato
   deleteContato(input: FiltroInput): Boolean
 }

@@ -27,16 +27,16 @@ export const DELETE_CONTATO = gql`
   }
 `;
 
-// export const UPDATE_CONTATO = gql`
-//   mutation ($id: Int!, $nome: String, $email: String, $telefone: String) {
-//     updateContato(
-//       id: $id
-//       input: { nome: $nome, email: $email, telefone: $telefone }
-//     ) {
-//       id
-//       nome
-//       email
-//       telefone
-//     }
-//   }
-// `;
+export const UPDATE_CONTATO = gql`
+  mutation ($id: Int!, $nome: String, $email: String, $telefone: String) {
+    updateContato(
+      id: $id
+      input: { nome: $nome, email: $email, telefone: $telefone }
+    ) {
+      id
+      nome
+      email
+      telefone
+    }
+  }
+`;
