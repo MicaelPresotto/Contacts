@@ -13,6 +13,7 @@ To run the Contacts API, ensure you have Node.js installed, and then install the
 ```
 npm i graphql-tools
 npm i knex pg
+npm i @apollo/client graphql
 ```
 
 Also, you`ll need a postgres database to make that connection, to create one via docker use the following command:
